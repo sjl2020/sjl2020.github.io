@@ -15,16 +15,17 @@
     
   <h1>座右铭和价值观世界观</h1>
   <p>我的座右铭就是--没有座右铭哈哈，现在我对自己对世界的理解还很不成熟，观点想法每时每刻都在变化，就比如我在姥姥去世之前的理想一直是当老师，姥姥去世以后就很快变成了当医生，一直到高三爆发新冠疫情，又变成了预防疾病，所以现在我来到了北大公共卫生学院，但是未来如何真的难以预料，若真的要写一个座右铭，那大概是--时时感恩，时时珍惜，时时温柔，时时做好事当好人，有趣有盼。至于世界观和价值观，现在当然也很不成熟，如果真的有一个雏形，那大概可以用一个很简单的标准概括---我的行为和思想一定不会让当初的自己失望！</p>
-  <img src="https://bkimg.cdn.bcebos.com/pic/0b55b319ebc4b745646a4883c3fc1e178b8215ac?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg">
- <a href="https://baike.baidu.com/item/%E5%8C%85%E5%A4%B4%E5%B8%82%E7%AC%AC%E4%B9%9D%E4%B8%AD%E5%AD%A6/7663420?fr=aladdin">
-  <p>点击这里了解更多关于我的母校</p>
+  
  
  
  
- <br/><br/><br/>
+ <br/>
  <img src="https://www.pku.edu.cn/Uploads/Picture/2019/12/26/s5e04147ee4a83.png">
  <a href="https://www.pku.edu.cn/"><p>点击这里了解更多关于PKU</p>
   
+  <img src="https://bkimg.cdn.bcebos.com/pic/0b55b319ebc4b745646a4883c3fc1e178b8215ac?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg">
+ <a href="https://baike.baidu.com/item/%E5%8C%85%E5%A4%B4%E5%B8%82%E7%AC%AC%E4%B9%9D%E4%B8%AD%E5%AD%A6/7663420?fr=aladdin">
+  <p>点击这里了解更多关于我的母校</p>
   
   
   

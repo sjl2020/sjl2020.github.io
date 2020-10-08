@@ -22,7 +22,7 @@
  
  
  <br/><br/><br/>
- <img src="https://bkimg.cdn.bcebos.com/pic/5ab5c9ea15ce36d3d53991f823ba2d87e950342a1be8?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg">
+ <img src="https://www.pku.edu.cn/Uploads/Picture/2019/12/26/s5e04147ee4a83.png">
  <a href="https://www.pku.edu.cn/"><p>点击这里了解更多关于PKU</p>
   
   

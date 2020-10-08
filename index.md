@@ -20,10 +20,10 @@
  
  
  <br/>
- <img src="https://www.pku.edu.cn/Uploads/Picture/2019/12/26/s5e04147ee4a83.png">
+ 
  <a href="https://www.pku.edu.cn/"><p>点击这里了解更多关于PKU</p>
   
-  <img src="https://bkimg.cdn.bcebos.com/pic/0b55b319ebc4b745646a4883c3fc1e178b8215ac?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg">
+  
  <a href="https://baike.baidu.com/item/%E5%8C%85%E5%A4%B4%E5%B8%82%E7%AC%AC%E4%B9%9D%E4%B8%AD%E5%AD%A6/7663420?fr=aladdin">
   <p>点击这里了解更多关于我的母校</p>
   
